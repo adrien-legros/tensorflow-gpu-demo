@@ -9,13 +9,11 @@ The following components has been installed on the Openshift cluster:
 - [Node Feature Discovery Operator](https://console-openshift-console.apps.sno-nvidia-p6.redhat.hpecic.net/k8s/ns/openshift-nfd/operators.coreos.com~v1alpha1~ClusterServiceVersion/nfd.4.11.0-202210251429) on openshift-nfd
 - [Open Data Hub Operator](https://console-openshift-console.apps.sno-nvidia-p6.redhat.hpecic.net/k8s/ns/openshift-operators/operators.coreos.com~v1alpha1~ClusterServiceVersion/opendatahub-operator.v1.4.0) with a KfDek instance in test-odh namespace
 
-The lab you will run will be on jupyterlab. You still have access to the deployed resources with the following credentials.
+The lab you will run will be on jupyterlab. You still have access to the deployed resources on the following urls.
 
 ## Credentials
 
-You can connect to the Openshift console or CLI with the following credentials:
-- username: hpe-redhat
-- password: redhat123!
+You can connect to the Openshift console or CLI:
 
 Openshift console url: https://console-openshift-console.apps.sno-nvidia-p6.redhat.hpecic.net  
 Openshift server url: https://api.sno-nvidia-p6.redhat.hpecic.net:6443 
