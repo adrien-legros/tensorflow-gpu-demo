@@ -11,6 +11,8 @@ The following components has been installed on the Openshift cluster:
 
 The lab you will run will be on jupyterlab. You still have access to the deployed resources on the following urls.
 
+Please refer to this gihub url if you want to reproduce the lab: https://github.com/adrien-legros/tensorflow-gpu-deploy.
+
 ## Credentials
 
 You can connect to the Openshift console or CLI:
